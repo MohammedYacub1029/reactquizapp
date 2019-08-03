@@ -1,0 +1,142 @@
+[
+    {
+        "id":1,
+      "question": "We can go for keys when there is possibility that our user could change the data.",
+      "answers": [
+        {
+          "is_right": 1,
+          "value": "Keys"
+        },
+        {
+          "is_right": 0,
+          "value": "ref"
+        },
+        {
+          "is_right": 0,
+          "value": "both"
+        },
+        {
+          "is_right": 0,
+          "value": "none of the above"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "question": "JSX is typesafe.",
+      "answers": [
+        {
+          "is_right": 1,
+          "value": "60"
+        },
+        {
+          "is_right": 1,
+          "value": "42"
+        },
+        {
+          "is_right": 0,
+          "value": "40"
+        },
+        {
+          "is_right": 0,
+          "value": "20"
+        }
+      ]
+    },
+    {
+      "id":3,
+        "question": "React merges the object you provide into the current state using ",
+        "answers":[
+            {
+                "is_right":1,
+                "value":"setState()"
+            },
+            {
+              "is_right":0,
+              "value":"State()"
+          }
+        ]
+    },
+    {
+      "id":4,
+      "question": "Arbitrary inputs of components are called __________. ",
+      "answers":[
+          {
+              "is_right":0,
+              "value":"Keys"
+          },
+          {
+            "is_right":2,
+            "value":"Props"
+          },
+          {
+              "is_right":0,
+              "value":"Elements"
+          },
+          {
+          "is_right":0,
+          "value":"Ref"
+          }
+      ]
+      },
+      {
+          "id":5,
+          "question": "_________ can be done while more than one element needs to be returned from a component. ",
+          "answers":[
+              {
+                  "is_right":0,
+                  "value":"Abstraction"
+              },
+              {
+                "is_right":0,
+                "value":"packing"
+              },
+              {
+                  "is_right":0,
+                  "value":"Insulation"
+              },
+              {
+              "is_right":4,
+              "value":"Wrapping"
+              }
+              
+          ]
+          },
+          {
+              "id":6,
+            "question": "Which of the following needs to be updated to achieve dynamic UI updates? ",
+            "answers":[
+                {
+                    "is_right":1,
+                    "value":"State"
+                },
+                {
+                  "is_right":0,
+                  "value":"Props"
+                }
+                
+            ]
+            },
+            {
+              "id":7,
+              "question":"Lifecycle methods are mainly used ___________.",
+              "answers":[
+                {
+                  "is_right":0,
+                  "value":"To keep track of event history"
+                },
+                {
+                  "is_right":0,
+                  "value":"to enhance components"
+                },
+                {
+                  "is_right":1,
+                  "value":"freeup resources"
+                },
+                {
+                  "is_right":0,
+                  "value":"none of the options"
+                }
+              ]
+            }
+  ]
